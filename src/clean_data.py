@@ -11,3 +11,9 @@ def main():
     shots = shots[['player_name', 'minute', 'second', 'team_name', 'location', 'shot_outcome','shot_statsbomb_xg', 'shot_end_location']]
     passes = passes[['player_name', 'minute', 'second', 'team_name', 'location', 'pass_outcome', 'pass_end_location']]
     dribbles = dribbles[['player_name', 'minute', 'second', 'team_name', 'location', 'dribble_outcome']]
+    #Save cleaned data
+    shots.to_csv("data/cleaned_shots.csv", index=False)
+    passes.to_csv("data/cleaned_passes.csv", index=False)
+    dribbles.to_csv("data/cleaned_dribbles.csv", index=False)
+
+    print("Saved cleaned data for shots, passes, and dribbles.")

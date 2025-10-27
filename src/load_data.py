@@ -20,7 +20,7 @@ def main():
 
     events = pd.concat(all_events, ignore_index=True)
     events.to_csv("data/events.csv", index=False)
-    print("Saved data/events.csv")
+    print("Saved data")
 
 if __name__ == "__main__":
     main()
