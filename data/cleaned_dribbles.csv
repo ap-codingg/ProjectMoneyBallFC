@@ -1,0 +1,455 @@
+player,minute,second,team,location,dribble_outcome
+Dušan Tadić,9,1,Serbia,"[109.9, 5.5]",Incomplete
+Dušan Tadić,17,13,Serbia,"[110.9, 4.3]",Complete
+Breel-Donald Embolo,23,18,Switzerland,"[91.1, 57.0]",Complete
+Remo Freuler,25,47,Switzerland,"[64.0, 66.6]",Complete
+Dušan Vlahović,36,1,Serbia,"[73.3, 68.9]",Incomplete
+Andrija Živković,36,3,Serbia,"[78.2, 76.5]",Incomplete
+Dušan Tadić,39,40,Serbia,"[113.1, 5.9]",Incomplete
+Dušan Tadić,54,55,Serbia,"[116.6, 25.4]",Complete
+Remo Freuler,55,35,Switzerland,"[88.4, 57.1]",Incomplete
+Christian Fassnacht,83,14,Switzerland,"[94.1, 9.1]",Complete
+Denis Lemi Zakaria Lako Lado,84,28,Switzerland,"[48.0, 64.2]",Incomplete
+Christian Fassnacht,96,31,Switzerland,"[65.6, 50.3]",Complete
+Alejandro Darío Gómez,10,39,Argentina,"[37.4, 19.6]",Incomplete
+Nahuel Molina Lucero,18,0,Argentina,"[33.3, 75.3]",Incomplete
+Miloš Degenek,29,8,Australia,"[19.4, 72.3]",Complete
+Mitchell Thomas Duke,29,35,Australia,"[52.1, 27.9]",Incomplete
+Alejandro Darío Gómez,30,0,Argentina,"[89.0, 67.8]",Complete
+Riley McGree,30,45,Australia,"[79.2, 63.2]",Complete
+Cristian Gabriel Romero,37,12,Argentina,"[18.5, 69.2]",Complete
+Alexis Mac Allister,39,19,Argentina,"[43.4, 6.7]",Complete
+Miloš Degenek,43,11,Australia,"[86.4, 76.7]",Incomplete
+Alejandro Darío Gómez,47,56,Argentina,"[85.0, 62.1]",Complete
+Jackson Irvine,50,56,Australia,"[97.2, 6.7]",Incomplete
+Mathew Ryan,56,39,Australia,"[8.0, 32.3]",Complete
+Julián Álvarez,58,27,Argentina,"[89.2, 9.4]",Incomplete
+Marcos Javier Acuña,58,30,Argentina,"[92.0, 10.5]",Incomplete
+Lionel Andrés Messi Cuccittini,63,5,Argentina,"[62.3, 56.1]",Complete
+Mathew Leckie,63,55,Australia,"[82.0, 32.0]",Incomplete
+Lionel Andrés Messi Cuccittini,64,6,Argentina,"[90.8, 44.3]",Incomplete
+Lionel Andrés Messi Cuccittini,64,10,Argentina,"[105.1, 29.9]",Complete
+Lionel Andrés Messi Cuccittini,64,11,Argentina,"[105.4, 29.9]",Incomplete
+Jackson Irvine,70,28,Australia,"[69.9, 76.0]",Incomplete
+Lautaro Javier Martínez,72,30,Argentina,"[82.8, 54.1]",Complete
+Lautaro Javier Martínez,72,32,Argentina,"[95.2, 44.5]",Incomplete
+Lautaro Javier Martínez,74,38,Argentina,"[77.7, 41.6]",Incomplete
+Aaron Mooy,76,52,Australia,"[67.0, 15.7]",Incomplete
+Nahuel Molina Lucero,77,30,Argentina,"[76.9, 73.9]",Incomplete
+Nicolás Alejandro Tagliafico,78,9,Argentina,"[70.2, 5.5]",Complete
+Aziz Eraltay Behich,80,6,Australia,"[103.5, 20.2]",Complete
+Aziz Eraltay Behich,80,7,Australia,"[109.0, 26.8]",Complete
+Ajdin Hrustic,84,35,Australia,"[76.8, 74.6]",Complete
+Ajdin Hrustic,84,38,Australia,"[86.5, 62.0]",Incomplete
+Lautaro Javier Martínez,84,52,Argentina,"[107.1, 22.8]",Incomplete
+Lionel Andrés Messi Cuccittini,88,9,Argentina,"[102.1, 45.4]",Complete
+Lautaro Javier Martínez,90,22,Argentina,"[113.9, 8.3]",Incomplete
+Lionel Andrés Messi Cuccittini,90,48,Argentina,"[90.6, 75.1]",Incomplete
+Lionel Andrés Messi Cuccittini,92,44,Argentina,"[90.9, 64.0]",Complete
+Rodrigo Javier De Paul,94,46,Argentina,"[42.2, 67.1]",Incomplete
+Mathew Leckie,0,43,Australia,"[33.4, 65.0]",Incomplete
+Mathias Jensen,5,24,Denmark,"[69.7, 50.3]",Complete
+Jesper Lindstrøm,6,4,Denmark,"[76.8, 16.2]",Complete
+Mathew Leckie,10,11,Australia,"[41.9, 50.9]",Complete
+Martin Braithwaite Christensen,12,56,Denmark,"[103.8, 77.2]",Incomplete
+Jesper Lindstrøm,14,20,Denmark,"[85.4, 5.5]",Incomplete
+Joakim Mæhle,14,35,Denmark,"[88.1, 6.8]",Incomplete
+Joakim Mæhle,23,46,Denmark,"[113.5, 25.6]",Incomplete
+Mathew Leckie,26,29,Australia,"[96.0, 71.3]",Incomplete
+Jesper Lindstrøm,27,28,Denmark,"[107.1, 8.2]",Incomplete
+Jesper Lindstrøm,28,29,Denmark,"[107.4, 22.5]",Complete
+Aaron Mooy,30,11,Australia,"[27.0, 68.3]",Incomplete
+Aziz Eraltay Behich,34,28,Australia,"[80.0, 6.8]",Complete
+Mathew Leckie,38,19,Australia,"[74.7, 52.1]",Incomplete
+Christian Dannemann Eriksen,41,31,Denmark,"[91.9, 33.3]",Complete
+Jesper Lindstrøm,41,41,Denmark,"[99.6, 25.0]",Complete
+Mathew Leckie,43,35,Australia,"[102.6, 75.8]",Incomplete
+Miloš Degenek,44,5,Australia,"[93.6, 65.3]",Incomplete
+Jesper Lindstrøm,50,21,Denmark,"[95.1, 4.1]",Incomplete
+Mathew Leckie,55,37,Australia,"[74.5, 53.4]",Incomplete
+Jesper Lindstrøm,56,50,Denmark,"[116.4, 4.7]",Complete
+Alexander Hartmann Bah,59,12,Denmark,"[97.9, 69.6]",Complete
+Andreas Skov Olsen,64,13,Denmark,"[97.9, 53.7]",Complete
+Aziz Eraltay Behich,66,57,Australia,"[111.9, 14.6]",Complete
+Aziz Eraltay Behich,66,59,Australia,"[110.5, 13.5]",Complete
+Robert Skov,71,59,Denmark,"[109.0, 4.0]",Complete
+Aziz Eraltay Behich,75,45,Australia,"[86.9, 5.6]",Complete
+Mathew Leckie,76,58,Australia,"[87.7, 6.0]",Incomplete
+Aziz Eraltay Behich,77,41,Australia,"[103.1, 21.5]",Incomplete
+Robert Skov,78,2,Denmark,"[81.0, 6.7]",Incomplete
+Andreas Christensen,86,31,Denmark,"[67.1, 17.6]",Complete
+Aziz Eraltay Behich,90,35,Australia,"[76.3, 7.2]",Incomplete
+Kasper Dolberg,90,49,Denmark,"[63.8, 33.5]",Complete
+Keanu Baccus,96,0,Australia,"[81.6, 24.4]",Incomplete
+Strahinja Pavlović,1,3,Serbia,"[26.9, 5.5]",Complete
+Raphael Dias Belloli,3,23,Brazil,"[72.6, 63.7]",Complete
+Sergej Milinković-Savić,7,18,Serbia,"[102.1, 30.5]",Complete
+Neymar da Silva Santos Junior,9,10,Brazil,"[105.7, 30.3]",Complete
+Filip Mladenović,11,35,Serbia,"[51.4, 15.1]",Incomplete
+Vinícius José Paixão de Oliveira Júnior,12,24,Brazil,"[116.1, 24.4]",Complete
+Filip Mladenović,14,24,Serbia,"[80.9, 8.7]",Complete
+Neymar da Silva Santos Junior,18,47,Brazil,"[68.5, 2.5]",Incomplete
+Vinícius José Paixão de Oliveira Júnior,21,57,Brazil,"[62.5, 18.5]",Incomplete
+Neymar da Silva Santos Junior,26,12,Brazil,"[80.9, 13.4]",Incomplete
+Vinícius José Paixão de Oliveira Júnior,26,52,Brazil,"[110.0, 29.5]",Incomplete
+Neymar da Silva Santos Junior,32,14,Brazil,"[75.6, 11.7]",Complete
+Raphael Dias Belloli,35,15,Brazil,"[34.3, 54.7]",Incomplete
+Dušan Tadić,47,49,Serbia,"[33.6, 33.7]",Complete
+Saša Lukić,48,3,Serbia,"[70.5, 68.1]",Incomplete
+Lucas Tolentino Coelho de Lima,52,18,Brazil,"[81.2, 66.6]",Incomplete
+Vinícius José Paixão de Oliveira Júnior,53,7,Brazil,"[87.1, 5.4]",Complete
+Vinícius José Paixão de Oliveira Júnior,53,11,Brazil,"[115.3, 16.9]",Complete
+Danilo Luiz da Silva,59,15,Brazil,"[76.0, 64.8]",Complete
+Raphael Dias Belloli,61,40,Brazil,"[95.0, 66.4]",Complete
+Neymar da Silva Santos Junior,61,53,Brazil,"[93.7, 49.2]",Complete
+Nemanja Radonjić,63,33,Serbia,"[98.2, 66.3]",Incomplete
+Dušan Tadić,65,54,Serbia,"[88.9, 13.5]",Incomplete
+Alex Sandro Lobo Silva,69,17,Brazil,"[39.9, 12.5]",Incomplete
+Raphael Dias Belloli,71,10,Brazil,"[63.7, 80.0]",Incomplete
+Dušan Tadić,75,53,Serbia,"[52.5, 36.5]",Incomplete
+Rodrygo Silva de Goes,77,18,Brazil,"[105.8, 12.0]",Incomplete
+Rodrygo Silva de Goes,79,51,Brazil,"[107.6, 50.2]",Incomplete
+Gabriel Fernando de Jesus,85,42,Brazil,"[115.8, 61.0]",Complete
+Antony Matheus dos Santos,86,4,Brazil,"[103.0, 13.8]",Complete
+Antony Matheus dos Santos,89,23,Brazil,"[96.8, 75.6]",Incomplete
+Nemanja Radonjić,90,38,Serbia,"[103.5, 7.3]",Incomplete
+Issam Jebali,0,10,Tunisia,"[77.5, 35.7]",Complete
+Youssef Msakni,0,32,Tunisia,"[69.8, 14.3]",Incomplete
+Mohamed Dräger,3,23,Tunisia,"[16.3, 78.0]",Complete
+Fran Karačić,6,2,Australia,"[87.1, 70.3]",Incomplete
+Mohamed Dräger,6,29,Tunisia,"[7.7, 66.0]",Complete
+Aziz Eraltay Behich,8,6,Australia,"[111.3, 2.9]",Complete
+Naïm Sliti,8,11,Tunisia,"[20.6, 77.0]",Incomplete
+Ellyes Joris Skhiri,19,34,Tunisia,"[63.8, 74.2]",Incomplete
+Mitchell Thomas Duke,36,13,Australia,"[74.1, 71.4]",Complete
+Youssef Msakni,37,14,Tunisia,"[89.2, 44.4]",Complete
+Mathew Leckie,45,20,Australia,"[59.9, 70.8]",Incomplete
+Yassine Meriah,47,55,Tunisia,"[76.2, 68.4]",Incomplete
+Issam Jebali,51,40,Tunisia,"[98.7, 75.4]",Incomplete
+Mathew Leckie,55,0,Australia,"[63.4, 61.1]",Incomplete
+Ellyes Joris Skhiri,55,1,Tunisia,"[57.2, 34.2]",Incomplete
+Aziz Eraltay Behich,61,39,Australia,"[34.5, 18.8]",Complete
+Naïm Sliti,62,27,Tunisia,"[67.7, 75.9]",Incomplete
+Ajdin Hrustic,68,59,Australia,"[91.8, 78.0]",Incomplete
+Mathew Leckie,84,18,Australia,"[104.4, 77.2]",Incomplete
+Ferjani Sassi,85,57,Tunisia,"[71.1, 53.4]",Incomplete
+Naïm Sliti,86,35,Tunisia,"[111.3, 47.4]",Complete
+Naïm Sliti,87,0,Tunisia,"[94.2, 37.6]",Complete
+Montassar Omar Talbi,88,32,Tunisia,"[6.3, 3.1]",Complete
+Ferjani Sassi,88,56,Tunisia,"[62.1, 49.6]",Complete
+Awer Mabil,89,18,Australia,"[41.5, 8.9]",Incomplete
+Ajdin Hrustic,89,59,Australia,"[47.1, 29.3]",Incomplete
+Yassine Meriah,95,3,Tunisia,"[79.8, 37.4]",Complete
+Pervis Josué Estupiñán Tenorio,0,20,Ecuador,"[66.8, 7.6]",Complete
+Pathé Ismaël Ciss,1,20,Senegal,"[64.2, 54.3]",Incomplete
+Pervis Josué Estupiñán Tenorio,4,28,Ecuador,"[64.0, 7.4]",Complete
+Boulaye Dia,4,57,Senegal,"[65.5, 71.5]",Incomplete
+Iliman Ndiaye,6,1,Senegal,"[74.0, 73.8]",Complete
+Ismaïla Sarr,7,1,Senegal,"[42.8, 7.5]",Incomplete
+Ismaïla Sarr,10,51,Senegal,"[99.2, 38.6]",Complete
+Idrissa Gana Gueye,10,58,Senegal,"[108.8, 2.4]",Complete
+Iliman Ndiaye,11,52,Senegal,"[101.7, 53.6]",Complete
+Gonzalo Jordy Plata Jiménez,13,20,Ecuador,"[66.9, 52.7]",Complete
+Iliman Ndiaye,13,45,Senegal,"[94.1, 61.2]",Complete
+Iliman Ndiaye,13,46,Senegal,"[90.3, 62.5]",Complete
+Boulaye Dia,22,49,Senegal,"[74.5, 30.5]",Complete
+Pape Gueye,26,24,Senegal,"[65.8, 41.2]",Incomplete
+Iliman Ndiaye,28,7,Senegal,"[99.4, 64.3]",Incomplete
+Ismaïla Sarr,46,19,Senegal,"[75.1, 3.7]",Complete
+Pathé Ismaël Ciss,49,46,Senegal,"[73.5, 32.9]",Complete
+Youssouf Sabaly,54,48,Senegal,"[68.3, 75.1]",Incomplete
+Jeremy Leonel Sarmiento Morante,56,52,Ecuador,"[99.6, 4.1]",Complete
+Idrissa Gana Gueye,57,33,Senegal,"[51.4, 58.5]",Incomplete
+Iliman Ndiaye,60,59,Senegal,"[73.3, 71.0]",Complete
+Ismaïla Sarr,64,19,Senegal,"[102.7, 13.6]",Complete
+Jeremy Leonel Sarmiento Morante,75,39,Ecuador,"[91.3, 20.0]",Complete
+Gonzalo Jordy Plata Jiménez,78,35,Ecuador,"[69.5, 51.3]",Incomplete
+Youssouf Sabaly,78,55,Senegal,"[44.3, 57.0]",Complete
+Boulaye Dia,81,52,Senegal,"[93.4, 59.1]",Complete
+José Adoni Cifuentes Charcopa,91,25,Ecuador,"[114.0, 76.1]",Incomplete
+Cody Mathès Gakpo,12,11,Netherlands,"[39.8, 23.1]",Incomplete
+Frenkie de Jong,12,52,Netherlands,"[56.5, 25.0]",Complete
+Julián Álvarez,17,36,Argentina,"[81.4, 21.4]",Incomplete
+Memphis Depay,20,10,Netherlands,"[115.6, 20.6]",Incomplete
+Lionel Andrés Messi Cuccittini,21,34,Argentina,"[90.7, 65.3]",Complete
+Jurriën David Norman Timber,22,1,Netherlands,"[21.1, 62.2]",Complete
+Rodrigo Javier De Paul,27,27,Argentina,"[35.3, 67.4]",Complete
+Lionel Andrés Messi Cuccittini,29,4,Argentina,"[55.1, 44.3]",Complete
+Rodrigo Javier De Paul,33,44,Argentina,"[75.2, 76.6]",Incomplete
+Virgil van Dijk,42,11,Netherlands,"[43.2, 44.2]",Complete
+Memphis Depay,44,24,Netherlands,"[94.2, 11.3]",Incomplete
+Julián Álvarez,46,29,Argentina,"[80.3, 5.2]",Incomplete
+Memphis Depay,49,3,Netherlands,"[70.5, 25.3]",Incomplete
+Cody Mathès Gakpo,48,37,Netherlands,"[99.0, 67.7]",Incomplete
+Denzel Dumfries,49,39,Netherlands,"[88.4, 77.8]",Incomplete
+Memphis Depay,51,36,Netherlands,"[88.4, 32.8]",Incomplete
+Alexis Mac Allister,51,39,Argentina,"[37.1, 23.0]",Complete
+Denzel Dumfries,54,5,Netherlands,"[93.2, 79.0]",Incomplete
+Marcos Javier Acuña,56,24,Argentina,"[40.2, 1.5]",Complete
+Lionel Andrés Messi Cuccittini,60,33,Argentina,"[34.7, 54.2]",Complete
+Cody Mathès Gakpo,65,30,Netherlands,"[38.6, 4.7]",Complete
+Cody Mathès Gakpo,65,32,Netherlands,"[45.6, 5.5]",Incomplete
+Cody Mathès Gakpo,80,35,Netherlands,"[84.8, 9.5]",Complete
+Steven Berghuis,86,4,Netherlands,"[74.7, 78.4]",Incomplete
+Cody Mathès Gakpo,86,34,Netherlands,"[87.0, 3.9]",Incomplete
+Cody Mathès Gakpo,94,16,Netherlands,"[105.7, 4.9]",Incomplete
+Lionel Andrés Messi Cuccittini,102,29,Argentina,"[72.5, 74.8]",Complete
+Enzo Fernandez,95,6,Argentina,"[57.4, 67.3]",Incomplete
+Lautaro Javier Martínez,104,55,Argentina,"[84.0, 70.1]",Incomplete
+Frenkie de Jong,104,58,Netherlands,"[33.5, 24.6]",Complete
+Lionel Andrés Messi Cuccittini,105,22,Argentina,"[76.8, 66.2]",Complete
+Jurriën David Norman Timber,110,1,Netherlands,"[62.6, 62.3]",Complete
+Jurriën David Norman Timber,110,2,Netherlands,"[70.5, 59.5]",Incomplete
+Enzo Fernandez,113,45,Argentina,"[106.4, 56.0]",Complete
+Lionel Andrés Messi Cuccittini,117,35,Argentina,"[75.4, 56.0]",Complete
+Ángel Fabián Di María Hernández,118,5,Argentina,"[88.9, 23.3]",Complete
+Lionel Andrés Messi Cuccittini,118,7,Argentina,"[89.8, 26.7]",Incomplete
+Steven Berghuis,118,15,Netherlands,"[86.0, 69.8]",Complete
+Lautaro Javier Martínez,118,34,Argentina,"[93.0, 36.5]",Complete
+Sang-Ho Na,6,45,South Korea,"[117.0, 66.2]",Incomplete
+Heung-Min Son,11,58,South Korea,"[106.5, 12.4]",Incomplete
+Ui-Jo Hwang,13,37,South Korea,"[100.9, 5.6]",Complete
+Rodrigo Bentancur Colmán,14,56,Uruguay,"[75.7, 24.0]",Incomplete
+Sang-Ho Na,17,30,South Korea,"[69.6, 56.1]",Incomplete
+Darwin Gabriel Núñez Ribeiro,25,35,Uruguay,"[87.1, 33.2]",Complete
+Heung-Min Son,25,47,South Korea,"[95.0, 7.5]",Complete
+Mathías Olivera Miramontes,26,36,Uruguay,"[32.3, 36.3]",Incomplete
+Facundo Pellistri Rebollo,27,40,Uruguay,"[110.7, 75.9]",Incomplete
+Matías Vecino Falero,29,29,Uruguay,"[34.8, 16.8]",Incomplete
+Sang-Ho Na,47,39,South Korea,"[94.2, 56.9]",Incomplete
+Heung-Min Son,50,11,South Korea,"[105.2, 54.4]",Incomplete
+Sang-Ho Na,52,17,South Korea,"[113.0, 3.9]",Incomplete
+Rodrigo Bentancur Colmán,52,21,Uruguay,"[20.6, 60.8]",Complete
+José Martín Cáceres Silva,53,35,Uruguay,"[49.2, 70.2]",Complete
+Matías Vecino Falero,61,6,Uruguay,"[53.8, 50.4]",Incomplete
+Federico Santiago Valverde Dipetta,62,28,Uruguay,"[34.4, 29.8]",Incomplete
+Darwin Gabriel Núñez Ribeiro,62,35,Uruguay,"[86.9, 2.5]",Complete
+In-Beom Hwang,67,52,South Korea,"[45.1, 34.5]",Incomplete
+Facundo Pellistri Rebollo,68,15,Uruguay,"[97.6, 77.5]",Incomplete
+Facundo Pellistri Rebollo,68,19,Uruguay,"[101.7, 76.9]",Incomplete
+Facundo Pellistri Rebollo,69,30,Uruguay,"[92.3, 72.8]",Incomplete
+Sang-Ho Na,72,18,South Korea,"[73.9, 76.4]",Incomplete
+In-Beom Hwang,74,53,South Korea,"[111.6, 11.9]",Incomplete
+Federico Santiago Valverde Dipetta,88,54,Uruguay,"[81.5, 17.7]",Complete
+Kang-In Lee,91,21,South Korea,"[39.9, 54.6]",Complete
+In-Beom Hwang,96,21,South Korea,"[91.3, 76.2]",Incomplete
+João Félix Sequeira,1,40,Portugal,"[83.1, 6.9]",Complete
+Gonçalo Matias Ramos,1,42,Portugal,"[91.5, 12.1]",Incomplete
+Selim Amallah,1,51,Morocco,"[43.0, 45.2]",Incomplete
+João Félix Sequeira,8,4,Portugal,"[113.8, 7.9]",Incomplete
+Selim Amallah,13,24,Morocco,"[56.1, 6.4]",Complete
+Sofiane Boufal,15,45,Morocco,"[55.8, 13.3]",Incomplete
+Azzedine Ounahi,16,54,Morocco,"[44.8, 69.1]",Complete
+Achraf Hakimi Mouh,16,57,Morocco,"[72.0, 58.9]",Incomplete
+Sofiane Boufal,19,16,Morocco,"[6.3, 1.6]",Complete
+João Félix Sequeira,22,25,Portugal,"[112.4, 11.2]",Incomplete
+Achraf Hakimi Mouh,24,6,Morocco,"[45.7, 76.0]",Incomplete
+Bruno Miguel Borges Fernandes,29,24,Portugal,"[53.1, 44.2]",Complete
+Bernardo Mota Veiga de Carvalho e Silva,46,40,Portugal,"[118.1, 70.6]",Incomplete
+Hakim Ziyech,46,50,Morocco,"[42.3, 77.1]",Incomplete
+Achraf Hakimi Mouh,47,45,Morocco,"[79.1, 75.3]",Complete
+Bruno Miguel Borges Fernandes,49,56,Portugal,"[79.8, 33.9]",Complete
+Sofiane Boufal,50,3,Morocco,"[31.2, 38.9]",Complete
+Hakim Ziyech,58,12,Morocco,"[103.7, 67.0]",Incomplete
+Youssef En-Nesyri,58,43,Morocco,"[39.1, 17.0]",Complete
+Hakim Ziyech,59,30,Morocco,"[37.1, 59.9]",Incomplete
+João Pedro Cavaco Cancelo,66,30,Portugal,"[97.1, 3.4]",Incomplete
+Rafael Alexandre Conceição Leão,69,38,Portugal,"[94.0, 3.4]",Complete
+Rafael Alexandre Conceição Leão,70,52,Portugal,"[105.4, 71.8]",Incomplete
+Walid Cheddira,74,48,Morocco,"[106.5, 39.3]",Incomplete
+Rafael Alexandre Conceição Leão,76,20,Portugal,"[90.2, 3.4]",Complete
+Hakim Ziyech,76,34,Morocco,"[42.9, 71.6]",Incomplete
+Rafael Alexandre Conceição Leão,79,47,Portugal,"[101.8, 5.8]",Complete
+Azzedine Ounahi,80,18,Morocco,"[49.5, 51.6]",Complete
+Ángel Fabián Di María Hernández,4,8,Argentina,"[108.9, 4.9]",Incomplete
+Theo Bernard François Hernández,5,34,France,"[54.2, 15.1]",Complete
+Alexis Mac Allister,7,13,Argentina,"[73.4, 30.1]",Complete
+Ángel Fabián Di María Hernández,7,31,Argentina,"[110.2, 18.1]",Complete
+Ousmane Dembélé,12,54,France,"[73.4, 67.1]",Incomplete
+Ángel Fabián Di María Hernández,13,47,Argentina,"[86.5, 17.5]",Complete
+Antoine Griezmann,14,34,France,"[79.8, 59.0]",Incomplete
+Ángel Fabián Di María Hernández,20,51,Argentina,"[115.1, 11.7]",Complete
+Ángel Fabián Di María Hernández,24,16,Argentina,"[29.2, 46.8]",Complete
+Ángel Fabián Di María Hernández,25,28,Argentina,"[46.3, 5.5]",Complete
+Lionel Andrés Messi Cuccittini,28,30,Argentina,"[111.9, 65.8]",Incomplete
+Rodrigo Javier De Paul,30,57,Argentina,"[36.9, 53.4]",Complete
+Rodrigo Javier De Paul,31,3,Argentina,"[67.2, 71.8]",Incomplete
+Kylian Mbappé Lottin,35,4,France,"[113.0, 10.4]",Incomplete
+Ángel Fabián Di María Hernández,42,31,Argentina,"[109.4, 16.2]",Incomplete
+Aurélien Djani Tchouaméni,43,19,France,"[75.1, 13.6]",Complete
+Marcus Thuram,43,24,France,"[80.3, 6.8]",Incomplete
+Aurélien Djani Tchouaméni,44,44,France,"[84.3, 59.0]",Complete
+Marcus Thuram,46,28,France,"[99.9, 7.7]",Complete
+Ángel Fabián Di María Hernández,48,41,Argentina,"[54.4, 3.8]",Incomplete
+Jules Koundé,46,36,France,"[51.0, 54.5]",Complete
+Randal Kolo Muani,48,35,France,"[39.6, 71.6]",Incomplete
+Theo Bernard François Hernández,48,58,France,"[31.7, 5.9]",Complete
+Kylian Mbappé Lottin,49,3,France,"[56.7, 3.1]",Complete
+Kylian Mbappé Lottin,49,7,France,"[79.4, 11.9]",Complete
+Kylian Mbappé Lottin,50,36,France,"[117.7, 62.0]",Incomplete
+Rodrigo Javier De Paul,51,25,Argentina,"[110.2, 67.3]",Incomplete
+Kylian Mbappé Lottin,57,24,France,"[62.1, 10.4]",Incomplete
+Jules Koundé,63,14,France,"[111.7, 66.0]",Incomplete
+Marcus Thuram,68,40,France,"[77.9, 57.7]",Incomplete
+Alexis Mac Allister,71,8,Argentina,"[69.3, 12.6]",Complete
+Eduardo Camavinga,71,51,France,"[58.0, 5.7]",Complete
+Kingsley Coman,74,47,France,"[48.2, 23.2]",Complete
+Lionel Andrés Messi Cuccittini,77,38,Argentina,"[70.4, 75.7]",Incomplete
+Rodrigo Javier De Paul,83,34,Argentina,"[79.8, 54.5]",Incomplete
+Kingsley Coman,93,41,France,"[115.1, 8.9]",Complete
+Kingsley Coman,93,42,France,"[114.9, 15.3]",Complete
+Kylian Mbappé Lottin,95,10,France,"[113.9, 21.5]",Complete
+Kingsley Coman,98,8,France,"[90.8, 75.2]",Complete
+Lionel Andrés Messi Cuccittini,92,50,Argentina,"[99.1, 60.5]",Incomplete
+Randal Kolo Muani,94,15,France,"[81.8, 28.8]",Incomplete
+Randal Kolo Muani,98,30,France,"[98.9, 11.9]",Complete
+Kylian Mbappé Lottin,98,49,France,"[90.7, 23.3]",Complete
+Kylian Mbappé Lottin,98,56,France,"[115.3, 22.8]",Incomplete
+Randal Kolo Muani,101,15,France,"[87.1, 15.4]",Incomplete
+Marcos Javier Acuña,105,26,Argentina,"[110.2, 7.9]",Incomplete
+Marcus Thuram,111,13,France,"[88.8, 12.1]",Complete
+Marcos Javier Acuña,113,5,Argentina,"[116.0, 7.0]",Incomplete
+Enzo Fernandez,118,4,Argentina,"[57.6, 57.5]",Complete
+Eduardo Camavinga,118,18,France,"[40.5, 5.9]",Incomplete
+Gonzalo Ariel Montiel,119,23,Argentina,"[98.6, 74.0]",Incomplete
+Kylian Mbappé Lottin,123,56,France,"[113.9, 14.1]",Complete
+Kylian Mbappé Lottin,123,57,France,"[114.5, 19.0]",Complete
+Kylian Mbappé Lottin,123,58,France,"[111.1, 25.2]",Incomplete
+Saud Abdullah Abdul Hamid,11,34,Saudi Arabia,"[95.0, 23.9]",Complete
+Mohammed Kanoo,14,31,Saudi Arabia,"[63.8, 39.3]",Incomplete
+Mohammed Kanoo,23,19,Saudi Arabia,"[69.8, 65.4]",Complete
+Jorge Eduardo Sánchez Ramos,24,18,Mexico,"[103.8, 45.9]",Incomplete
+Hirving Rodrigo Lozano Bahena,39,50,Mexico,"[70.4, 55.4]",Complete
+Hirving Rodrigo Lozano Bahena,40,35,Mexico,"[99.3, 65.0]",Complete
+Orbelín Pineda Alvarado,40,38,Mexico,"[104.2, 48.9]",Complete
+Saud Abdullah Abdul Hamid,43,24,Saudi Arabia,"[65.1, 3.4]",Incomplete
+Mohammed Kanoo,48,17,Saudi Arabia,"[74.9, 67.1]",Incomplete
+Saleh Khalid Al Shehri,49,51,Saudi Arabia,"[86.7, 55.5]",Incomplete
+Sultan Abdullah Salim Al Ghannam,53,46,Saudi Arabia,"[59.0, 71.5]",Incomplete
+Firas Tariq Nasser Al Albirakan,53,51,Saudi Arabia,"[69.7, 65.0]",Incomplete
+Salem Mohammed Al Dawsari,53,56,Saudi Arabia,"[90.1, 50.5]",Complete
+Hirving Rodrigo Lozano Bahena,55,9,Mexico,"[101.0, 21.3]",Complete
+Jesús Daniel Gallardo Vasconcelos,63,30,Mexico,"[50.1, 8.5]",Complete
+Abdulrahman Al-Obood,64,15,Saudi Arabia,"[34.6, 62.8]",Incomplete
+Riyadh Sharahili,74,31,Saudi Arabia,"[36.6, 41.7]",Incomplete
+Luis Gerardo Chávez Magallón,77,38,Mexico,"[87.4, 28.9]",Complete
+Carlos Alberto Rodríguez Gómez,83,3,Mexico,"[61.3, 2.4]",Complete
+Jorge Eduardo Sánchez Ramos,83,50,Mexico,"[104.9, 75.3]",Complete
+Carlos Alberto Rodríguez Gómez,85,11,Mexico,"[62.5, 6.3]",Complete
+Hirving Rodrigo Lozano Bahena,92,20,Mexico,"[110.7, 9.1]",Incomplete
+Jesús Daniel Gallardo Vasconcelos,94,20,Mexico,"[51.6, 3.6]",Complete
+Ángel Fabián Di María Hernández,1,25,Argentina,"[109.1, 67.5]",Incomplete
+Robert Lewandowski,3,47,Poland,"[109.4, 75.9]",Incomplete
+Rodrigo Javier De Paul,4,36,Argentina,"[55.9, 70.6]",Incomplete
+Piotr Zieliński,5,21,Poland,"[28.1, 49.7]",Complete
+Ángel Fabián Di María Hernández,7,0,Argentina,"[80.3, 77.7]",Incomplete
+Ángel Fabián Di María Hernández,8,52,Argentina,"[92.6, 49.0]",Complete
+Ángel Fabián Di María Hernández,10,23,Argentina,"[92.1, 72.4]",Complete
+Robert Lewandowski,12,38,Poland,"[106.7, 65.7]",Incomplete
+Lionel Andrés Messi Cuccittini,18,19,Argentina,"[92.6, 58.8]",Complete
+Ángel Fabián Di María Hernández,26,14,Argentina,"[95.5, 14.0]",Complete
+Ángel Fabián Di María Hernández,26,16,Argentina,"[98.9, 24.9]",Complete
+Rodrigo Javier De Paul,26,29,Argentina,"[91.2, 53.2]",Incomplete
+Wojciech Szczęsny,34,46,Poland,"[9.9, 31.9]",Complete
+Ángel Fabián Di María Hernández,41,54,Argentina,"[69.2, 49.3]",Complete
+Jakub Kamiński,50,14,Poland,"[50.7, 15.6]",Incomplete
+Krystian Bielik,51,25,Poland,"[40.9, 25.0]",Incomplete
+Ángel Fabián Di María Hernández,53,25,Argentina,"[99.5, 51.5]",Complete
+Lionel Andrés Messi Cuccittini,54,47,Argentina,"[91.6, 41.4]",Complete
+Ángel Fabián Di María Hernández,56,10,Argentina,"[108.7, 55.1]",Complete
+Ángel Fabián Di María Hernández,58,2,Argentina,"[34.1, 75.0]",Incomplete
+Bartosz Bereszyński,61,22,Poland,"[63.4, 5.9]",Incomplete
+Lionel Andrés Messi Cuccittini,63,22,Argentina,"[104.2, 24.3]",Complete
+Lionel Andrés Messi Cuccittini,66,26,Argentina,"[68.9, 52.1]",Complete
+Lionel Andrés Messi Cuccittini,82,17,Argentina,"[74.5, 53.8]",Complete
+Rasmus Nissen Kristensen,1,43,Denmark,"[100.7, 75.6]",Incomplete
+Pierre-Emile Højbjerg,3,38,Denmark,"[37.4, 44.4]",Complete
+Ousmane Dembélé,5,3,France,"[21.0, 72.6]",Complete
+Ousmane Dembélé,5,6,France,"[42.4, 67.8]",Complete
+Theo Bernard François Hernández,7,29,France,"[73.5, 4.9]",Complete
+Kylian Mbappé Lottin,7,33,France,"[90.2, 4.8]",Incomplete
+Ousmane Dembélé,14,46,France,"[106.1, 71.1]",Incomplete
+Theo Bernard François Hernández,17,59,France,"[84.2, 25.9]",Incomplete
+Jesper Lindstrøm,21,15,Denmark,"[57.7, 76.4]",Incomplete
+Jesper Lindstrøm,28,47,Denmark,"[99.0, 69.3]",Incomplete
+Jesper Lindstrøm,29,4,Denmark,"[103.1, 69.9]",Complete
+Jesper Lindstrøm,31,24,Denmark,"[108.1, 75.7]",Incomplete
+Rasmus Nissen Kristensen,37,44,Denmark,"[107.1, 68.1]",Complete
+Ousmane Dembélé,47,37,France,"[75.7, 62.0]",Incomplete
+Ousmane Dembélé,47,23,France,"[93.9, 70.5]",Complete
+Martin Braithwaite Christensen,49,20,Denmark,"[114.3, 55.1]",Incomplete
+Ousmane Dembélé,51,48,France,"[74.4, 75.5]",Incomplete
+Joakim Mæhle,52,59,Denmark,"[92.3, 6.3]",Incomplete
+Antoine Griezmann,55,48,France,"[35.4, 11.6]",Complete
+Kylian Mbappé Lottin,55,54,France,"[61.1, 17.2]",Complete
+Ousmane Dembélé,58,29,France,"[94.2, 64.2]",Complete
+Kylian Mbappé Lottin,58,33,France,"[104.4, 47.7]",Incomplete
+Jules Koundé,59,44,France,"[14.5, 58.3]",Complete
+Kylian Mbappé Lottin,63,17,France,"[57.2, 20.7]",Complete
+Jesper Lindstrøm,65,55,Denmark,"[90.5, 77.9]",Complete
+Martin Braithwaite Christensen,66,9,Denmark,"[91.0, 49.6]",Complete
+Kylian Mbappé Lottin,68,36,France,"[68.1, 5.2]",Incomplete
+Ousmane Dembélé,69,2,France,"[105.0, 54.3]",Incomplete
+Rasmus Nissen Kristensen,73,31,Denmark,"[94.9, 76.0]",Incomplete
+Kylian Mbappé Lottin,75,28,France,"[112.3, 24.0]",Incomplete
+Kingsley Coman,78,18,France,"[96.4, 64.1]",Complete
+Kingsley Coman,85,6,France,"[112.5, 66.2]",Complete
+Kylian Mbappé Lottin,88,36,France,"[74.3, 11.0]",Complete
+Kingsley Coman,90,47,France,"[54.5, 52.3]",Complete
+Kasper Dolberg,91,3,Denmark,"[82.4, 15.7]",Complete
+Kasper Dolberg,91,7,Denmark,"[85.1, 15.7]",Incomplete
+Kingsley Coman,91,20,France,"[32.5, 75.6]",Complete
+Alexander Hartmann Bah,93,46,Denmark,"[100.2, 72.7]",Complete
+Marcus Thuram,94,8,France,"[113.7, 21.2]",Complete
+Kingsley Coman,94,45,France,"[83.1, 73.9]",Complete
+Lionel Andrés Messi Cuccittini,1,50,Argentina,"[64.3, 47.3]",Complete
+Ángel Fabián Di María Hernández,2,5,Argentina,"[102.8, 69.3]",Complete
+Rodrigo Javier De Paul,6,56,Argentina,"[26.0, 71.2]",Incomplete
+Gonzalo Ariel Montiel,13,16,Argentina,"[73.0, 73.1]",Incomplete
+Alexis Mac Allister,16,11,Argentina,"[92.2, 4.5]",Complete
+Kevin Nahin Álvarez Campos,18,14,Mexico,"[93.5, 77.3]",Incomplete
+Ángel Fabián Di María Hernández,22,50,Argentina,"[74.3, 68.2]",Complete
+Ángel Fabián Di María Hernández,24,1,Argentina,"[101.2, 7.5]",Incomplete
+Ángel Fabián Di María Hernández,26,27,Argentina,"[45.3, 72.6]",Incomplete
+Ángel Fabián Di María Hernández,35,56,Argentina,"[64.0, 74.8]",Complete
+Ángel Fabián Di María Hernández,35,59,Argentina,"[87.9, 62.5]",Incomplete
+Kevin Nahin Álvarez Campos,42,11,Mexico,"[93.5, 76.4]",Incomplete
+Héctor Miguel Herrera López,42,32,Mexico,"[89.7, 62.1]",Incomplete
+Lionel Andrés Messi Cuccittini,48,10,Argentina,"[72.2, 47.1]",Incomplete
+Lautaro Javier Martínez,53,48,Argentina,"[54.0, 1.9]",Complete
+Ángel Fabián Di María Hernández,54,59,Argentina,"[99.5, 72.7]",Complete
+Ernesto Alexis Vega Rojas,55,12,Mexico,"[40.8, 14.4]",Incomplete
+Érick Gabriel Gutiérrez Galaviz,55,35,Mexico,"[42.5, 51.1]",Complete
+Rodrigo Javier De Paul,60,48,Argentina,"[93.3, 28.2]",Incomplete
+Ernesto Alexis Vega Rojas,62,3,Mexico,"[37.5, 77.0]",Incomplete
+Roberto Carlos Alvarado Hernández,72,37,Mexico,"[88.4, 2.0]",Incomplete
+Marcos Javier Acuña,86,3,Argentina,"[112.4, 13.5]",Incomplete
+Enzo Fernandez,86,39,Argentina,"[105.3, 23.9]",Complete
+Carlos Uriel Antuna Romero,88,31,Mexico,"[63.7, 74.3]",Complete
+Héctor Miguel Herrera López,90,20,Mexico,"[69.5, 21.0]",Incomplete
+Julián Álvarez,90,27,Argentina,"[93.4, 34.2]",Incomplete
+César Jasib Montes Castro,90,31,Mexico,"[39.5, 31.8]",Complete
+César Jasib Montes Castro,90,32,Mexico,"[38.1, 26.9]",Complete
+Lionel Andrés Messi Cuccittini,95,24,Argentina,"[33.5, 48.3]",Complete
+Ruben Vargas,10,35,Switzerland,"[93.1, 31.5]",Incomplete
+Djibril Sow,20,55,Switzerland,"[89.0, 62.1]",Incomplete
+Alex Sandro Lobo Silva,21,47,Brazil,"[80.5, 4.1]",Complete
+Remo Freuler,25,1,Switzerland,"[112.1, 57.3]",Incomplete
+Ricardo Iván Rodríguez Araya,27,59,Switzerland,"[35.7, 4.0]",Incomplete
+Richarlison de Andrade,28,20,Brazil,"[82.8, 49.2]",Incomplete
+Remo Freuler,35,47,Switzerland,"[70.0, 63.7]",Incomplete
+Vinícius José Paixão de Oliveira Júnior,36,19,Brazil,"[100.6, 3.9]",Incomplete
+Breel-Donald Embolo,45,13,Switzerland,"[112.1, 14.0]",Incomplete
+Fabian Rieder,55,24,Switzerland,"[54.3, 49.6]",Complete
+Rodrygo Silva de Goes,57,1,Brazil,"[92.7, 34.1]",Incomplete
+Renato Steffen,68,8,Switzerland,"[79.7, 51.8]",Incomplete
+Bruno Guimarães Rodriguez Moura,72,21,Brazil,"[114.2, 65.8]",Complete
+Vinícius José Paixão de Oliveira Júnior,73,55,Brazil,"[114.1, 13.4]",Incomplete
+Bruno Guimarães Rodriguez Moura,76,17,Brazil,"[44.7, 20.8]",Complete
+Antony Matheus dos Santos,76,32,Brazil,"[77.0, 60.4]",Complete
+Rodrygo Silva de Goes,81,50,Brazil,"[45.8, 27.4]",Incomplete
+Antony Matheus dos Santos,85,59,Brazil,"[112.2, 60.4]",Incomplete
+Antony Matheus dos Santos,88,49,Brazil,"[90.4, 59.1]",Incomplete
+Vinícius José Paixão de Oliveira Júnior,94,11,Brazil,"[79.4, 5.2]",Complete
+Vinícius José Paixão de Oliveira Júnior,94,14,Brazil,"[95.6, 8.9]",Incomplete
+Edimilson Fernandes,95,37,Switzerland,"[6.6, 72.4]",Complete
