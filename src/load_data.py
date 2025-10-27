@@ -12,7 +12,7 @@ def main():
 
     all_events = []
 
-    #Download the first 15 matches
+    #Download the events of the first 15 matches
     for match_id in matches.match_id.head(15):
         print(f"Loading events for match {match_id}...")
         events = sb.events(match_id=match_id)
