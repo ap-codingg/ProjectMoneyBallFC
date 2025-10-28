@@ -2,7 +2,7 @@ from statsbombpy import sb
 import pandas as pd
 
 def main():
-    #Download matches data for Women's World Cup 2019
+    #Download matches data for Men's World Cup 2022
     print("Downloading matches data...")
     matches = sb.matches(competition_id=43, season_id=106)
 
@@ -18,9 +18,9 @@ def main():
         events = sb.events(match_id=match_id)
         all_events.append(events)
 
-    events = pd.concat(all_events, ignore_index=True)
-    events.to_csv("data/events.csv", index=False)
-    print("Saved data")
+    events = pd.concat(all_events, ignore_index = True)
+    events.to_csv("data/events.csv", index = False)
+    print("Saved data.")
 
 if __name__ == "__main__":
     main()
