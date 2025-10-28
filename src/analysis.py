@@ -34,3 +34,10 @@ def main():
         player_progressive[['player', 'progressive_pass_ratio']], on='player', how='outer').merge(
         player_dribble[['player', 'dribble_success_rate']], on='player', how='outer')
     player_stats = player_stats.fillna(0)
+    #The "Hidden Gem" score: a weighted average of all metrics
+    player_stats['hidden_gem_score'] = (
+        player_stats['shot_efficiency'] * 0.35 +
+        player_stats['pass_accuracy'] * 0.25 +
+        player_stats['progressive_pass_ratio'] * 0.10 +
+        player_stats['dribble_success_rate'] * 0.30
+    )
