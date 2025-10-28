@@ -28,3 +28,9 @@ def main():
         'dribble_outcome': lambda x: (x == 'Successful').sum(), 'player': 'count'})
     player_dribble.rename(columns= {'player': 'total_dribbles'}, inplace=True)
     player_dribble['dribble_success_rate'] = (player_dribble['dribble_outcome'] / player_dribble['total_dribbles'].replace(0, np.nan)) * 100
+    #Merge all statistics
+    player_stats = player_shot[['player', 'shot_efficiency']].merge(
+        player_pass[['player', 'pass_accuracy']], on='player', how='outer').merge(
+        player_progressive[['player', 'progressive_pass_ratio']], on='player', how='outer').merge(
+        player_dribble[['player', 'dribble_success_rate']], on='player', how='outer')
+    player_stats = player_stats.fillna(0)
