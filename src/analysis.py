@@ -31,8 +31,8 @@ def main():
     player_progressive['progressive_pass_ratio'] = (player_progressive['progressive_passes'] / player_progressive['total_passes'].replace(0, np.nan)) * 100
     #Dribble success rate per player
     player_dribble = dribbles.groupby('player', as_index=False).agg(
-    successful_dribbles=('dribble_outcome', lambda x: (x == 'Complete').sum()),
-    total_dribbles=('dribble_outcome', 'count'))
+    successful_dribbles = ('dribble_outcome', lambda x: (x == 'Complete').sum()),
+    total_dribbles = ('dribble_outcome', 'count'))
     player_dribble['dribble_success_rate'] = (player_dribble['successful_dribbles'] / player_dribble['total_dribbles'].replace(0, np.nan)) * 100
     #Merge all statistics
     player_stats = player_shot[['player', 'shot_efficiency']].merge(
@@ -40,11 +40,11 @@ def main():
         player_progressive[['player', 'progressive_pass_ratio']], on='player', how='outer').merge(
         player_dribble[['player', 'dribble_success_rate']], on='player', how='outer')
     player_stats = player_stats.fillna(0)
-    # Normalize all metrics between 0 and 100 for fair weighting
+    #Normalize all metrics between 0 and 100 for fair weighting
     for col in ['shot_efficiency', 'pass_accuracy', 'progressive_pass_ratio', 'dribble_success_rate']:
      col_min = player_stats[col].min()
      col_max = player_stats[col].max()
-     if col_max > col_min:  # avoid division by zero
+     if col_max > col_min:  #Avoid division by zero
         player_stats[col] = 100 * (player_stats[col] - col_min) / (col_max - col_min)
     #The "Hidden Gem" score: a weighted average of all metrics
     player_stats['hidden_gem_score'] = (

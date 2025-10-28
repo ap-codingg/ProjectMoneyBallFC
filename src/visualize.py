@@ -3,19 +3,10 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 def main():
-    data = pd.read_csv('data/top_players_by_xG.csv')
-    if data.empty:
-        print("No data available to visualize. Run analysis.py first.")
+    player_stats = pd.read_csv("data/player_stats.csv")
+    top_hidden_gems = pd.read_csv("data/top_hidden_gems.csv")
+    #Check if data is loaded correctly
+    if player_stats.empty or top_hidden_gems.empty:
+        print("Player statistics or top hidden gems data is missing. Run analysis.py first.")
         return
     
-    plt.figure(figsize=(10, 6))
-    sns.barplot(x='avg_xG', y='player', data=data)
-    plt.title('Top 10 Hidden Gems')
-    plt.xlabel('Passing accuracy')
-    plt.ylabel('xG per shot')
-    plt.tight_layout()
-    plt.savefig('data/top_players_by_xG.png')
-    print("Visualization saved as top_players_by_xG.png")
-
-if __name__ == "__main__":
-    main()
