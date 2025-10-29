@@ -11,6 +11,12 @@ def main():
         return
     #Heatmap of hidden gems
     stats = ['shot_efficiency', 'pass_accuracy', 'progressive_pass_ratio', 'dribble_success_rate']
+    stats.rename = {
+        'shot_efficiency': 'Shot Efficiency',
+        'pass_accuracy': 'Pass Accuracy',
+        'progressive_pass_ratio': 'Progressive Pass Ratio',
+        'dribble_success_rate': 'Dribble Success Rate'
+    }
     df_sorted = top_hidden_gems.sort_values('hidden_gem_score', ascending = False).head(10)
     plt.figure(figsize = (10, 6))
     sns.heatmap(df_sorted.set_index('player')[stats], annot = True, cmap="YlGnBu", cbar_kws={'label': 'Score'}, fmt=".2f")
