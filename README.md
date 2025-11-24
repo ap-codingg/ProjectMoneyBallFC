@@ -13,8 +13,17 @@ Using ['StatsBomb's open data project'](https://github.com/statsbomb/open-data),
 * Compute the "hidden gem score", a weighted average of the selected metrics used to identify hidden talents.
 * Visualize this hidden talents using an heatmap
 
+## Guide to install the project
+* First of all, to clone the repository, use the command:
+git clone https://github.com/ap-codingg/ProjectMoneyBallFC
+cd ProjectMoneyBallFC
+* Then it's better to create a virtual environment, so that the dependencies are installed just to make the code run and will stay on your computer just until the venv is available. To create it, use:
+python -m venv .venv
+source .venv\Scripts\activate
+* Now it's time to install the dependencies contained in the requirements:
+pip install -r requirements.txt 
+
 ## Running the code
-The project requires the libraries listed in the requirements.txt.
 After installing the dependencies, the scripts to run in order are:
 1. load_data.py
 2. clean_data.py
